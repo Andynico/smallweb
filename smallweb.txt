@@ -12149,6 +12149,7 @@ https://www.greaterfool.ca/feed/
 https://www.greencaltrain.com/feed/
 https://www.gregchapple.com/rss/
 https://www.gregkogan.com/feed.xml
+https://gregmorris.co.uk/rss
 https://www.gregnavis.com/feed.xml
 https://www.grepular.com/rss
 https://www.greyblake.com/atom.xml
@@ -12559,6 +12560,7 @@ https://www.lisaocchino.com/feed/
 https://www.lisaspangenberg.com/feed/
 https://www.listenfaster.com/main/rss.xml
 https://www.lizruest.com/feed/
+https://ljpuk.net/feed/
 https://www.lkhrs.com/blog/index.xml
 https://www.lloydatkinson.net/rss.xml
 https://www.loc.gov/collections/global-legal-monitor/?fo=rss
@@ -13380,6 +13382,7 @@ https://www.thecodedself.com/feed.xml
 https://www.thecoupleproject.com/atom.xml
 https://www.thedangerz.com/welcome?format=rss
 https://www.thedataincubator.com/feed/
+https://thedent.net/tag/blog/feed
 https://www.thedirtbagdao.com/blog?format=rss
 https://www.thedroneely.com/posts/rss.xml
 https://www.theerlangelist.com/rss
